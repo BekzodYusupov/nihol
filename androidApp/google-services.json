@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "300364560923",
+    "project_id": "liveupdate-b8c74",
+    "storage_bucket": "liveupdate-b8c74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300364560923:android:386a26fc406c297c50d6be",
+        "android_client_info": {
+          "package_name": "com.bekhzodnurmukhamedov.nihol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300364560923-abffc665dl5bde48orotjkjaokqerfd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVmvSj-eHCvfsgFmQ3imKBh1Q3g8gZRdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300364560923-abffc665dl5bde48orotjkjaokqerfd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300364560923:android:3b09139345ac438e50d6be",
+        "android_client_info": {
+          "package_name": "uz.gita.liveupdate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300364560923-abffc665dl5bde48orotjkjaokqerfd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVmvSj-eHCvfsgFmQ3imKBh1Q3g8gZRdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300364560923-abffc665dl5bde48orotjkjaokqerfd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

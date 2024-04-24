@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="app_name">My KMM Project</string>
+    <string name="hello_world">Hello world</string>
+    <string name="loading_done">Loading done</string>
+</resources>
